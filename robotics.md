@@ -11,6 +11,7 @@
   - regar las plantas
   - avisar si el baño esta ocupado
   - controlar estas cosas x SMS/Yo (webhooks)
+- keep track de estas cosas y tener un webserver o algo que las grafique (algo tipo quantified self)
 - bike sensor que te muestra en lucesitas cuando viene un auto atras. Lo vi el otro dia en un gif y no lo encuentro mas :/ . Igual no tengo ni idea como se puede hacer esto jaja.
 - hacer la vida mas divertida con sonidos, luces, etc cuando haces algo
   - sonido de puerta tipo pelicula de terror cuando abris la puerda del baño
