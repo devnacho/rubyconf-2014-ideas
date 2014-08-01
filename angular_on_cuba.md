@@ -8,7 +8,9 @@ Mostrar como setear una aplicación usando Angular como Framework en el Frontend
 - Persistir cambios de objetos
 - Usar Directives, Services, Controllers de Angular
 - Configuraciones Básicas
+  - Gulp, bower, etc - tenerlo documentado en un repo pero q sea facil iniciar todo
 - Estaría bueno mostrar como hiciste con JP que con una misma app de angular se puede hacer la app web y por otro lado la mobile.
+- Cambios simples para mejorar bootstrap (o algun otro framework similar)
 
 ## Ideas aplicación de ejemplo
 Esta parte es para ver que aplicación puede estar buena para mostrar como funciona. Tiene que ser algo super simple.
