@@ -20,6 +20,6 @@ No son conferencias tecnicas pero ayudan por el hecho de que tenemos experiencia
 - Muchos ejemplos de set ups de soluciones(y everyday hacks) mezclando componentes (Ej: Raspi, Beaglebone, Arduino(y sus tipos, smartcitizen), Cuba para Dashboard, Bluetooth, WiFi, Sensores, Giroscopo, GPS, GSM, Pantallas, Motores, Robots, Drones, Joysticks, Wii, ver mas en artoo y cylon)
 - La charla no es una simple demo.
 - La charla es sobre todo de como encarar problemas del mundo real y resolverlo con Ruby. Internet of Things.
-- Terminos interesantes: Makers, Open sourcing real life
+- Terminos interesantes: Makers, Open sourcing real life, open source hardware
 
 ##Por qué consideras que tu propuesta es significativa?
