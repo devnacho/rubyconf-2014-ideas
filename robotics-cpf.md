@@ -23,3 +23,5 @@ No son conferencias tecnicas pero ayudan por el hecho de que tenemos experiencia
 - Terminos interesantes: Makers, Open sourcing real life, open source hardware
 
 ##Por qué consideras que tu propuesta es significativa?
+
+Es interesante mostrar que se puede hacer con la tecnología más allá de los problemas que resolvemos a diario. Poder salir de la computdaro hacia el "mundo real" es posible, y mantener muchas de las herramientas que ya conocemos lo hace aún más fácil.
