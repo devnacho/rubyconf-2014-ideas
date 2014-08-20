@@ -33,4 +33,4 @@ Una vez que conectas el mundo real a internet podés monitorear, crear alertas y
 
 ##Por qué consideras que tu propuesta es significativa?
 
-Es interesante mostrar que se puede hacer con la tecnología más allá de los problemas que resolvemos a diario. Poder salir de la computdaro hacia el "mundo real" es posible, y mantener muchas de las herramientas que ya conocemos lo hace aún más fácil. Creemos que a través de esta presentación vamos a poder motivar y convencer a la mayoría de developers que hace rato tienen ganas de empezar a experimentar con un Arduino o una Raspberry Pi pero no saben por donde arrancar.
+Es interesante mostrar que se puede hacer con la tecnología más allá de los problemas que resolvemos a diario. Poder salir de la computadora hacia el "mundo real" es posible, y mantener muchas de las herramientas que ya conocemos lo hace aún más fácil. Creemos que a través de esta presentación vamos a poder motivar y convencer a la mayoría de developers que hace rato tienen ganas de empezar a experimentar con un Arduino o una Raspberry Pi pero no saben por donde arrancar.
