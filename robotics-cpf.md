@@ -17,9 +17,11 @@ No son conferencias tecnicas pero ayudan por el hecho de que tenemos experiencia
 
 ##Resumen de tu presentación
 
-Los programadores somos buenos resolviendo problemas e implementando soluciones, pero generalmente hacemos que el software nos limite a hacer algo en la computadora. Queremos mostrar cómo se pueden resolver problemas en el mundo real, los objectos que interactuamos todos los dias, usando tecnologias al alcance de todos y con la ayuda de las herramientas que ya conocemos.
-No es solo una simple demo, si no abrir el juego para mostrar lo que se puede hacer, con que herramientas, y cómo encarar los proyectos. Mostrar cómo se puede conectar una Raspberry Pi, un Arduino, y una cafetera para simplificar y hacer más amenas todas tus mañanas.
-Hablamos de la filosofia detras de estos projectos, el open source hardware y el movimiento maker, más un repaso sobre otras plataformas y accesorios disponibles. (Hacer lista?)
+Los programadores somos buenos resolviendo problemas e implementando soluciones, pero generalmente el software nos limita a resolver problemas de la computadora para adentro. En esta presentación, queremos mostrar cómo se pueden resolver problemas en el mundo real. Queremos resolver problemas con los objectos que interactuamos todos los dias, usando tecnologias al alcance de todos y con la ayuda de las herramientas que ya conocemos. Empezar a hackear el mundo nunca fue tan fácil para un developer.
+
+Esta presentación no es una simple demo, queremos abrir el juego para mostrar todo lo que se puede hacer, con que herramientas, y cómo encarar los proyectos. Entre varios ejemplos, mostraremos cómo se puede conectar una Raspberry Pi, un Arduino, y una cafetera para simplificar y hacer más amenas todas tus mañanas.
+Hablamos de la filosofia detras de estos projectos, el open source hardware y el movimiento maker, más un repaso sobre otras plataformas, sensores, motores y accesorios disponibles.
+
 Una vez que conectas el mundo real a internet podés monitorear, crear alertas y controlar objetos remotamente. Y si se pueden comunicar con vos, también se pueden controlar entre ellos -- automate everything!
 
 *Base*
@@ -31,4 +33,4 @@ Una vez que conectas el mundo real a internet podés monitorear, crear alertas y
 
 ##Por qué consideras que tu propuesta es significativa?
 
-Es interesante mostrar que se puede hacer con la tecnología más allá de los problemas que resolvemos a diario. Poder salir de la computdaro hacia el "mundo real" es posible, y mantener muchas de las herramientas que ya conocemos lo hace aún más fácil.
+Es interesante mostrar que se puede hacer con la tecnología más allá de los problemas que resolvemos a diario. Poder salir de la computdaro hacia el "mundo real" es posible, y mantener muchas de las herramientas que ya conocemos lo hace aún más fácil. Creemos que a través de esta presentación vamos a poder motivar y convencer a la mayoría de developers que hace rato tienen ganas de empezar a experimentar con un Arduino o una Raspberry Pi pero no saben por donde arrancar.
