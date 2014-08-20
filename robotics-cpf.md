@@ -16,6 +16,13 @@ Tiene sentido alguna de Wayra, Startup Chile, E-commerce Day?
 No son conferencias tecnicas pero ayudan por el hecho de que tenemos experiencia de hablar en publico.
 
 ##Resumen de tu presentación
+
+Los programadores somos buenos resolviendo problemas e implementando soluciones, pero generalmente hacemos que el software nos limite a hacer algo en la computadora. Queremos mostrar cómo se pueden resolver problemas en el mundo real, los objectos que interactuamos todos los dias, usando tecnologias al alcance de todos y con la ayuda de las herramientas que ya conocemos.
+No es solo una simple demo, si no abrir el juego para mostrar lo que se puede hacer, con que herramientas, y cómo encarar los proyectos. Mostrar cómo se puede conectar una Raspberry Pi, un Arduino, y una cafetera para simplificar y hacer más amenas todas tus mañanas.
+Hablamos de la filosofia detras de estos projectos, el open source hardware y el movimiento maker, más un repaso sobre otras plataformas y accesorios disponibles. (Hacer lista?)
+Una vez que conectas el mundo real a internet podés monitorear, crear alertas y controlar objetos remotamente. Y si se pueden comunicar con vos, también se pueden controlar entre ellos -- automate everything!
+
+*Base*
 - Empezar a resolver problemas que vayan mas alla de la pantalla.
 - Muchos ejemplos de set ups de soluciones(y everyday hacks) mezclando componentes (Ej: Raspi, Beaglebone, Arduino(y sus tipos, smartcitizen), Cuba para Dashboard, Bluetooth, WiFi, Sensores, Giroscopo, GPS, GSM, Pantallas, Motores, Robots, Drones, Joysticks, Wii, ver mas en artoo y cylon)
 - La charla no es una simple demo.
