@@ -18,6 +18,18 @@ Entre estas conferencias se encuentran Primer seminario de Naves IAE Business Sc
 
 ##Resumen de tu presentación
 
+En los ultimos años aparecieron frontend MVC frameworks como Backbone, Angular, Ember y otros más. Estos frameworks tuvieron un crecimiento enorme, no hay un día que no salga un artículo sobre ellos en HackerNews y sin embargo existen muchos ruby/rails developers que todavía no saben por donde arrancar ni para que casos utilizarlos.
+
+En este workshop pretendemos hacer un repaso sobre los principales frameworks, sus ventajas y desventajas, las diferencias de concepto con el MVC de Rails y mostraremos a través de un caso concreto como estos frameworks pueden llevar la experiencia del usuario al siguiente nivel.
+
+A diferencia de otras guías que eligen como ejemplo aplicaciones inherementente dinamicas y complejas como Music Players, Feed Readers, Task Manager o ToDo lists, nosotros elegimos un Blog. Un Blog es una aplicación trivial que se suele utilizar en muchas guías de Ruby on Rails, sin embargo, mostraremos como a través de estos frontend frameworks podemos mejorar muchísimo la interfaz y la interacción con el usuario. Mejoras de interfaz desde el formulario de sign up hasta validaciones client side en la carga de contenido.
+
+En este workshop utilizaremos Cuba para crear una REST API para servir a la aplicación frontend y persistir los objetos, y Angular como frontend framework. Los participantes de este workshop van a poder descargar un repositorio de github con la configuración básica necesaria y terminaran desarrollando este blog en Angular on Cuba.
+
+
+
+
+
 - (Rapidamente) Explicar como surgieron los frameworks, y mostrar como se integran con tecnologias existentes.
 - Mostrar las diferencias del concepto de MVC de Rails con el MVC de framework JS
 - Mostrar como hacer una API Rest con Cuba para servir a la aplicación en el frontend (Persistir cambios de objetos)
