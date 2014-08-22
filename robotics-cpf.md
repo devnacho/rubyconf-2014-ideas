@@ -12,8 +12,8 @@ Nacho es programador y diseñador. Después de ser diseñador autodidacta y cump
 Nacho y Kito emprendieron juntos por más de 5 años y crearon diferentes proyectos que recibieron inversión y apoyo de instituciones reconocidas como Wayra, Startup Chile, el Gobierno de la Ciudad de Buenos Aires y el IAE Business School. Ambos comparten la misma filosofía, el espiritu emprendedor y las ganas de estar constantemente aprendiendo algo nuevo. Estas ganas de estar aprendiendo algo nuevo fue lo que llevó a que se compraran una Raspberry Pi, un Arduino y empiecen a ver como programando pueden resolver problemas que van más allá de la pantalla.
 
 ##Otras conferencias en las cuales haya participado como orador/a
-Tiene sentido alguna de Wayra, Startup Chile, E-commerce Day? 
-No son conferencias tecnicas pero ayudan por el hecho de que tenemos experiencia de hablar en publico.
+En los últimos años Nacho y Esteban participaron como oradores en diferentes conferencias hablando principalmente sobre Lean Startup. 
+Entre estas conferencias se encuentran el Online Marketing Day 2011, Wayra Demo Day 2013 y Startup Chile Demo Day en Santiago de Chile y San Francisco, California.
 
 ##Resumen de tu presentación
 
