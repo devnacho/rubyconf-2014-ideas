@@ -14,7 +14,7 @@ Nacho y Kito emprendieron juntos por más de 5 años y crearon diferentes proyec
 ##Otras conferencias en las cuales haya participado como orador/a
 
 En los últimos años Nacho y Kito participaron como oradores en diferentes conferencias hablando principalmente sobre Lean Startup y presentando los productos en los que trabajaron.
-Entre estas conferencias se encuentran Primer seminario de Naves IAE 2011, Online Marketing Day 2011, Wayra Demo Day 2013 y Startup Chile Demo Day en Santiago de Chile y San Francisco, California.
+Entre estas conferencias se encuentran Primer seminario de Naves IAE Business School 2011, Online Marketing Day 2011, Wayra Demo Day 2013 y Startup Chile Demo Day en Santiago de Chile y San Francisco, California.
 
 ##Resumen de tu presentación
 
