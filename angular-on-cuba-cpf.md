@@ -18,6 +18,12 @@ Entre estas conferencias se encuentran Primer seminario de Naves IAE Business Sc
 
 ##Resumen de tu presentación
 
+- (Rapidamente) Explicar como surgieron los frameworks, y mostrar como se integran con tecnologias existentes.
+- Mostrar las diferencias del concepto de MVC de Rails con el MVC de framework JS
+- Mostrar como hacer una API Rest con Cuba para servir a la aplicación en el frontend (Persistir cambios de objetos)
+- Principales componentes de angular: Directives, Services, Controllers (mostrar como se usa con ruby, o como se compara)
+- Configuraciones Básicas (Gulp, bower, etc - tenerlo documentado en un repo pero q sea facil iniciar todo)
+- App de ejemplo (?)
 
 ##Por qué consideras que tu propuesta es significativa?
-
+Son tecnologias nuevas que estan creciendo rapido y esta bueno ir conociendolas
