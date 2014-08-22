@@ -21,7 +21,7 @@ Entre estas conferencias se encuentran Primer seminario de Naves IAE Business Sc
 Los programadores somos buenos resolviendo problemas e implementando soluciones, pero generalmente el software nos limita a resolver problemas de la computadora para adentro. En esta presentación, queremos mostrar cómo se pueden resolver problemas en el mundo real. Queremos resolver problemas con los objectos que interactuamos todos los dias, usando tecnologias al alcance de todos y con la ayuda de las herramientas que ya conocemos. Empezar a hackear el mundo nunca fue tan fácil para un developer.
 
 Esta presentación no es una simple demo, queremos abrir el juego para mostrar todo lo que se puede hacer, con que herramientas, y cómo encarar los proyectos. Entre varios ejemplos, mostraremos cómo se puede conectar una Raspberry Pi, un Arduino, y una cafetera para simplificar y hacer más amenas todas tus mañanas.
-Hablamos de la filosofia detras de estos projectos, el open source hardware y el movimiento maker, más un repaso sobre otras plataformas, sensores, motores y accesorios disponibles.
+Hablamos de la filosofia detras de estos proyectos, el open source hardware y el movimiento maker, más un repaso sobre otras plataformas, sensores, motores y accesorios disponibles.
 
 Una vez que conectas el mundo real a internet podés monitorear, crear alertas y controlar objetos remotamente. Y si se pueden comunicar con vos, también se pueden controlar entre ellos -- automate everything!
 
