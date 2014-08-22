@@ -25,7 +25,9 @@ Entre estas conferencias se encuentran Primer seminario de Naves IAE Business Sc
 - Configuraciones Básicas (Gulp, bower, etc - tenerlo documentado en un repo pero q sea facil iniciar todo)
 - App de ejemplo (Blog?)
   - Mostrar como se puede mejorar la experiencia del usuario rotundamente, inclusive en una aplicacion comun (un blog)
-  - Ejs: Medium, Svbtle
+  - Mejorar forms, edit, logins, etc
+  - Ejs: Medium, Svbtle, Square Cash
+  
 
 ##Por qué consideras que tu propuesta es significativa?
 Son tecnologias nuevas que estan creciendo rapido y esta bueno ir conociendolas
