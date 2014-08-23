@@ -44,7 +44,7 @@ En este workshop utilizaremos Cuba para crear una REST API para servir a la apli
 
 Las herramientas de un programador son los lenguajes y sus frameworks, cuanto más las conozca y mejor las sepa usar mejor equipado estará. Los frameworks MVC en javascript estan creciendo y permiten mejorar la experiencia de usuario, algo clave para todo producto web, y a la vez apartarse del código spaghetti que suelen crear los (gigantes) plugins de jQuery.
 
-A la vez, el nombre MVC puede generar confusiones a los que sólo son familiares con el MVC de Rails y es bueno conocer la diferencia para que el aprendizaje sea más ameno. 
+El nombre MVC puede generar confusiones a los developers que sólo son familiares con el MVC de Rails y es bueno conocer la diferencia para que el aprendizaje sea más ameno. 
 
 Creemos que con estas herramientas los developers pueden lograr esos pequeños grandes detalles que llevan la interacción con el usuario al siguiente nivel y mejoran el diseño de producto.
 
