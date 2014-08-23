@@ -41,4 +41,6 @@ En este workshop utilizaremos Cuba para crear una REST API para servir a la apli
   
 
 ##Por qué consideras que tu propuesta es significativa?
-Son tecnologias nuevas que estan creciendo rapido y esta bueno ir conociendolas
+
+Las herramientas de un programador son los lenguajes y sus frameworks, cuanto más las conozca y mejor las sepa usar mejor equipado estará. Los frameworks MVC en javascript estan creciendo y permiten mejorar la experiencia de usuario, algo clave para todo producto web, y a la vez apartarse del código spaghetti que suelen crear los (gigantes) plugins de jQuery.
+A la vez, el nombre MVC puede generar confusiones con los que sólo son familiares con el MVC de Rails y es importante conocer la diferencia para que el aprendizaje sea más ameno.
